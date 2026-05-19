@@ -1,187 +1,192 @@
 [
   {
-    "key": "boss_war_machine_bed_phase_1",
-    "file": "assets/audio/boss_war_machine_bed_phase_1.wav",
-    "duration_sec": 10.0
+    "key": "boss_core_shutdown_clean",
+    "file": "assets/audio/boss_core_shutdown_clean.wav",
+    "category": "boss_death"
   },
   {
-    "key": "boss_war_machine_bed_phase_2",
-    "file": "assets/audio/boss_war_machine_bed_phase_2.wav",
-    "duration_sec": 10.0
+    "key": "boss_death_pulse_1_clean",
+    "file": "assets/audio/boss_death_pulse_1_clean.wav",
+    "category": "boss_death"
   },
   {
-    "key": "boss_war_machine_bed_phase_3",
-    "file": "assets/audio/boss_war_machine_bed_phase_3.wav",
-    "duration_sec": 10.0
+    "key": "boss_death_pulse_2_clean",
+    "file": "assets/audio/boss_death_pulse_2_clean.wav",
+    "category": "boss_death"
   },
   {
-    "key": "boss_intro_reactor_wake_heavier",
-    "file": "assets/audio/boss_intro_reactor_wake_heavier.wav",
-    "duration_sec": 4.4
+    "key": "boss_death_pulse_3_clean",
+    "file": "assets/audio/boss_death_pulse_3_clean.wav",
+    "category": "boss_death"
   },
   {
-    "key": "boss_landing_massive_impact_v4",
-    "file": "assets/audio/boss_landing_massive_impact_v4.wav",
-    "duration_sec": 3.2
+    "key": "boss_death_pulse_4_clean",
+    "file": "assets/audio/boss_death_pulse_4_clean.wav",
+    "category": "boss_death"
   },
   {
-    "key": "boss_phase_overload_heavier",
-    "file": "assets/audio/boss_phase_overload_heavier.wav",
-    "duration_sec": 4.0
+    "key": "boss_intro_reactor_wake_clean",
+    "file": "assets/audio/boss_intro_reactor_wake_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "laser_charge_siege_capacitor_v4",
-    "file": "assets/audio/laser_charge_siege_capacitor_v4.wav",
-    "duration_sec": 3.5
+    "key": "boss_landing_impact_clean",
+    "file": "assets/audio/boss_landing_impact_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "laser_fire_siege_beam_v4",
-    "file": "assets/audio/laser_fire_siege_beam_v4.wav",
-    "duration_sec": 2.6
+    "key": "boss_machine_bed_phase_1_clean",
+    "file": "assets/audio/boss_machine_bed_phase_1_clean.wav",
+    "category": "boss_bed",
+    "loop": true
   },
   {
-    "key": "destruction_blast_charge_v4",
-    "file": "assets/audio/destruction_blast_charge_v4.wav",
-    "duration_sec": 3.8
+    "key": "boss_machine_bed_phase_2_clean",
+    "file": "assets/audio/boss_machine_bed_phase_2_clean.wav",
+    "category": "boss_bed",
+    "loop": true
   },
   {
-    "key": "destruction_blast_cannon_fire_v4",
-    "file": "assets/audio/destruction_blast_cannon_fire_v4.wav",
-    "duration_sec": 3.0
+    "key": "boss_machine_bed_phase_3_clean",
+    "file": "assets/audio/boss_machine_bed_phase_3_clean.wav",
+    "category": "boss_bed",
+    "loop": true
   },
   {
-    "key": "menacing_advance_hydraulic_charge_v4",
-    "file": "assets/audio/menacing_advance_hydraulic_charge_v4.wav",
-    "duration_sec": 2.6
+    "key": "boss_phase_overload_clean",
+    "file": "assets/audio/boss_phase_overload_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "menacing_advance_mass_dash_v4",
-    "file": "assets/audio/menacing_advance_mass_dash_v4.wav",
-    "duration_sec": 2.2
+    "key": "destruction_charge_clean",
+    "file": "assets/audio/destruction_charge_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "gravity_field_singularity_start_v4",
-    "file": "assets/audio/gravity_field_singularity_start_v4.wav",
-    "duration_sec": 3.0
+    "key": "destruction_fire_clean",
+    "file": "assets/audio/destruction_fire_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "gravity_field_singularity_loop_v4",
-    "file": "assets/audio/gravity_field_singularity_loop_v4.wav",
-    "duration_sec": 7.5
+    "key": "drone_bomb_explosion_clean",
+    "file": "assets/audio/drone_bomb_explosion_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "gravity_field_collapse_implosion_v4",
-    "file": "assets/audio/gravity_field_collapse_implosion_v4.wav",
-    "duration_sec": 3.4
+    "key": "drone_bomb_fall_clean",
+    "file": "assets/audio/drone_bomb_fall_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "turret_deploy_heavy_lock_v4",
-    "file": "assets/audio/turret_deploy_heavy_lock_v4.wav",
-    "duration_sec": 2.0
+    "key": "drone_locking_beep_clean",
+    "file": "assets/audio/drone_locking_beep_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "turret_cannon_shot_v4",
-    "file": "assets/audio/turret_cannon_shot_v4.wav",
-    "duration_sec": 1.15
+    "key": "drone_locking_beep_loop_clean",
+    "file": "assets/audio/drone_locking_beep_loop_clean.wav",
+    "category": "boss_skill_loop",
+    "loop": true
   },
   {
-    "key": "drone_locking_v4",
-    "file": "assets/audio/drone_locking_v4.wav",
-    "duration_sec": 1.9
+    "key": "gravity_collapse_clean",
+    "file": "assets/audio/gravity_collapse_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "drone_bomb_heavy_fall_v4",
-    "file": "assets/audio/drone_bomb_heavy_fall_v4.wav",
-    "duration_sec": 1.5
+    "key": "gravity_loop_clean",
+    "file": "assets/audio/gravity_loop_clean.wav",
+    "category": "boss_skill_loop",
+    "loop": true
   },
   {
-    "key": "drone_bomb_industrial_explosion_v4",
-    "file": "assets/audio/drone_bomb_industrial_explosion_v4.wav",
-    "duration_sec": 2.5
+    "key": "gravity_start_clean",
+    "file": "assets/audio/gravity_start_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "old_port_pa_corrupted_heavy_v4",
-    "file": "assets/audio/old_port_pa_corrupted_heavy_v4.wav",
-    "duration_sec": 3.0
+    "key": "laser_charge_clean",
+    "file": "assets/audio/laser_charge_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "ui_threat_low_alarm_v4",
-    "file": "assets/audio/ui_threat_low_alarm_v4.wav",
-    "duration_sec": 2.2
+    "key": "laser_fire_clean",
+    "file": "assets/audio/laser_fire_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "tumie_colossal_servo_warning_v4",
-    "file": "assets/audio/tumie_colossal_servo_warning_v4.wav",
-    "duration_sec": 3.2
+    "key": "menacing_charge_clean",
+    "file": "assets/audio/menacing_charge_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "tumie_reactor_execution_charge_v4",
-    "file": "assets/audio/tumie_reactor_execution_charge_v4.wav",
-    "duration_sec": 4.8
+    "key": "menacing_dash_clean",
+    "file": "assets/audio/menacing_dash_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "tumie_colossal_cut_impact_v4",
-    "file": "assets/audio/tumie_colossal_cut_impact_v4.wav",
-    "duration_sec": 3.61
+    "key": "old_broadcast_warning_clean",
+    "file": "assets/audio/old_broadcast_warning_clean.wav",
+    "category": "system"
   },
   {
-    "key": "tumie_aftershock_metal_collapse_v4",
-    "file": "assets/audio/tumie_aftershock_metal_collapse_v4.wav",
-    "duration_sec": 4.2
+    "key": "player_blink_clean",
+    "file": "assets/audio/player_blink_clean.wav",
+    "category": "player_disabled"
   },
   {
-    "key": "player_dash_blue_drive_heavier",
-    "file": "assets/audio/player_dash_blue_drive_heavier.wav",
-    "duration_sec": 0.83
+    "key": "player_dash_clean",
+    "file": "assets/audio/player_dash_clean.wav",
+    "category": "player_disabled"
   },
   {
-    "key": "player_blink_void_displace_heavier",
-    "file": "assets/audio/player_blink_void_displace_heavier.wav",
-    "duration_sec": 0.65
+    "key": "player_hurt_clean",
+    "file": "assets/audio/player_hurt_clean.wav",
+    "category": "player_disabled"
   },
   {
-    "key": "player_hurt_armored_hit_heavier",
-    "file": "assets/audio/player_hurt_armored_hit_heavier.wav",
-    "duration_sec": 0.9
+    "key": "tree_barrier_break_clean",
+    "file": "assets/audio/tree_barrier_break_clean.wav",
+    "category": "player_ability"
   },
   {
-    "key": "player_death_system_drop_heavier",
-    "file": "assets/audio/player_death_system_drop_heavier.wav",
-    "duration_sec": 2.6
+    "key": "tree_barrier_raise_clean",
+    "file": "assets/audio/tree_barrier_raise_clean.wav",
+    "category": "player_ability"
   },
   {
-    "key": "tree_raise_ancient_barrier_heavier",
-    "file": "assets/audio/tree_raise_ancient_barrier_heavier.wav",
-    "duration_sec": 1.5
+    "key": "tumie_aftershock_clean",
+    "file": "assets/audio/tumie_aftershock_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "tree_barrier_break_heavier",
-    "file": "assets/audio/tree_barrier_break_heavier.wav",
-    "duration_sec": 1.4
+    "key": "tumie_cut_impact_clean",
+    "file": "assets/audio/tumie_cut_impact_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "boss_death_heavy_pulse_1_v4",
-    "file": "assets/audio/boss_death_heavy_pulse_1_v4.wav",
-    "duration_sec": 2.2
+    "key": "tumie_execution_charge_clean",
+    "file": "assets/audio/tumie_execution_charge_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "boss_death_heavy_pulse_2_v4",
-    "file": "assets/audio/boss_death_heavy_pulse_2_v4.wav",
-    "duration_sec": 2.2
+    "key": "tumie_servo_warning_clean",
+    "file": "assets/audio/tumie_servo_warning_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "boss_death_heavy_pulse_3_v4",
-    "file": "assets/audio/boss_death_heavy_pulse_3_v4.wav",
-    "duration_sec": 2.2
+    "key": "turret_deploy_clean",
+    "file": "assets/audio/turret_deploy_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "boss_death_heavy_pulse_4_v4",
-    "file": "assets/audio/boss_death_heavy_pulse_4_v4.wav",
-    "duration_sec": 2.2
+    "key": "turret_destroy_clean",
+    "file": "assets/audio/turret_destroy_clean.wav",
+    "category": "boss_skill"
   },
   {
-    "key": "boss_death_core_shutdown_v4",
-    "file": "assets/audio/boss_death_core_shutdown_v4.wav",
-    "duration_sec": 6.6
+    "key": "turret_shot_clean",
+    "file": "assets/audio/turret_shot_clean.wav",
+    "category": "boss_skill"
   }
 ]

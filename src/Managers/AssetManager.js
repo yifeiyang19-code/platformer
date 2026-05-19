@@ -24,9 +24,9 @@ export const DEFAULT_GAME_CONFIG = Object.freeze({
     maxIntegrity: 100,
     phase2Threshold: 0.7,
     phase3Threshold: 0.35,
-    phase1DecayRate: 0.78,
-    phase2DecayRate: 1.08,
-    phase3DecayRate: 1.22
+    phase1DecayRate: 0.95,
+    phase2DecayRate: 1.35,
+    phase3DecayRate: 1.7
   },
   input: {
     bufferMs: 140
@@ -158,7 +158,7 @@ export default class AssetManager {
   }
 
   normalize(path) {
-    return String(path || "").replace(/\\/g, "/").replace(/^\.\
+    return String(path || "").replace(/\\/g, "/").replace(/^\.\//, "");
   }
 
   getPath(group, key) {
