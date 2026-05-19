@@ -1,0 +1,187 @@
+[
+  {
+    "key": "boss_war_machine_bed_phase_1",
+    "file": "assets/audio/boss_war_machine_bed_phase_1.wav",
+    "duration_sec": 10.0
+  },
+  {
+    "key": "boss_war_machine_bed_phase_2",
+    "file": "assets/audio/boss_war_machine_bed_phase_2.wav",
+    "duration_sec": 10.0
+  },
+  {
+    "key": "boss_war_machine_bed_phase_3",
+    "file": "assets/audio/boss_war_machine_bed_phase_3.wav",
+    "duration_sec": 10.0
+  },
+  {
+    "key": "boss_intro_reactor_wake_heavier",
+    "file": "assets/audio/boss_intro_reactor_wake_heavier.wav",
+    "duration_sec": 4.4
+  },
+  {
+    "key": "boss_landing_massive_impact_v4",
+    "file": "assets/audio/boss_landing_massive_impact_v4.wav",
+    "duration_sec": 3.2
+  },
+  {
+    "key": "boss_phase_overload_heavier",
+    "file": "assets/audio/boss_phase_overload_heavier.wav",
+    "duration_sec": 4.0
+  },
+  {
+    "key": "laser_charge_siege_capacitor_v4",
+    "file": "assets/audio/laser_charge_siege_capacitor_v4.wav",
+    "duration_sec": 3.5
+  },
+  {
+    "key": "laser_fire_siege_beam_v4",
+    "file": "assets/audio/laser_fire_siege_beam_v4.wav",
+    "duration_sec": 2.6
+  },
+  {
+    "key": "destruction_blast_charge_v4",
+    "file": "assets/audio/destruction_blast_charge_v4.wav",
+    "duration_sec": 3.8
+  },
+  {
+    "key": "destruction_blast_cannon_fire_v4",
+    "file": "assets/audio/destruction_blast_cannon_fire_v4.wav",
+    "duration_sec": 3.0
+  },
+  {
+    "key": "menacing_advance_hydraulic_charge_v4",
+    "file": "assets/audio/menacing_advance_hydraulic_charge_v4.wav",
+    "duration_sec": 2.6
+  },
+  {
+    "key": "menacing_advance_mass_dash_v4",
+    "file": "assets/audio/menacing_advance_mass_dash_v4.wav",
+    "duration_sec": 2.2
+  },
+  {
+    "key": "gravity_field_singularity_start_v4",
+    "file": "assets/audio/gravity_field_singularity_start_v4.wav",
+    "duration_sec": 3.0
+  },
+  {
+    "key": "gravity_field_singularity_loop_v4",
+    "file": "assets/audio/gravity_field_singularity_loop_v4.wav",
+    "duration_sec": 7.5
+  },
+  {
+    "key": "gravity_field_collapse_implosion_v4",
+    "file": "assets/audio/gravity_field_collapse_implosion_v4.wav",
+    "duration_sec": 3.4
+  },
+  {
+    "key": "turret_deploy_heavy_lock_v4",
+    "file": "assets/audio/turret_deploy_heavy_lock_v4.wav",
+    "duration_sec": 2.0
+  },
+  {
+    "key": "turret_cannon_shot_v4",
+    "file": "assets/audio/turret_cannon_shot_v4.wav",
+    "duration_sec": 1.15
+  },
+  {
+    "key": "drone_locking_v4",
+    "file": "assets/audio/drone_locking_v4.wav",
+    "duration_sec": 1.9
+  },
+  {
+    "key": "drone_bomb_heavy_fall_v4",
+    "file": "assets/audio/drone_bomb_heavy_fall_v4.wav",
+    "duration_sec": 1.5
+  },
+  {
+    "key": "drone_bomb_industrial_explosion_v4",
+    "file": "assets/audio/drone_bomb_industrial_explosion_v4.wav",
+    "duration_sec": 2.5
+  },
+  {
+    "key": "old_port_pa_corrupted_heavy_v4",
+    "file": "assets/audio/old_port_pa_corrupted_heavy_v4.wav",
+    "duration_sec": 3.0
+  },
+  {
+    "key": "ui_threat_low_alarm_v4",
+    "file": "assets/audio/ui_threat_low_alarm_v4.wav",
+    "duration_sec": 2.2
+  },
+  {
+    "key": "tumie_colossal_servo_warning_v4",
+    "file": "assets/audio/tumie_colossal_servo_warning_v4.wav",
+    "duration_sec": 3.2
+  },
+  {
+    "key": "tumie_reactor_execution_charge_v4",
+    "file": "assets/audio/tumie_reactor_execution_charge_v4.wav",
+    "duration_sec": 4.8
+  },
+  {
+    "key": "tumie_colossal_cut_impact_v4",
+    "file": "assets/audio/tumie_colossal_cut_impact_v4.wav",
+    "duration_sec": 3.61
+  },
+  {
+    "key": "tumie_aftershock_metal_collapse_v4",
+    "file": "assets/audio/tumie_aftershock_metal_collapse_v4.wav",
+    "duration_sec": 4.2
+  },
+  {
+    "key": "player_dash_blue_drive_heavier",
+    "file": "assets/audio/player_dash_blue_drive_heavier.wav",
+    "duration_sec": 0.83
+  },
+  {
+    "key": "player_blink_void_displace_heavier",
+    "file": "assets/audio/player_blink_void_displace_heavier.wav",
+    "duration_sec": 0.65
+  },
+  {
+    "key": "player_hurt_armored_hit_heavier",
+    "file": "assets/audio/player_hurt_armored_hit_heavier.wav",
+    "duration_sec": 0.9
+  },
+  {
+    "key": "player_death_system_drop_heavier",
+    "file": "assets/audio/player_death_system_drop_heavier.wav",
+    "duration_sec": 2.6
+  },
+  {
+    "key": "tree_raise_ancient_barrier_heavier",
+    "file": "assets/audio/tree_raise_ancient_barrier_heavier.wav",
+    "duration_sec": 1.5
+  },
+  {
+    "key": "tree_barrier_break_heavier",
+    "file": "assets/audio/tree_barrier_break_heavier.wav",
+    "duration_sec": 1.4
+  },
+  {
+    "key": "boss_death_heavy_pulse_1_v4",
+    "file": "assets/audio/boss_death_heavy_pulse_1_v4.wav",
+    "duration_sec": 2.2
+  },
+  {
+    "key": "boss_death_heavy_pulse_2_v4",
+    "file": "assets/audio/boss_death_heavy_pulse_2_v4.wav",
+    "duration_sec": 2.2
+  },
+  {
+    "key": "boss_death_heavy_pulse_3_v4",
+    "file": "assets/audio/boss_death_heavy_pulse_3_v4.wav",
+    "duration_sec": 2.2
+  },
+  {
+    "key": "boss_death_heavy_pulse_4_v4",
+    "file": "assets/audio/boss_death_heavy_pulse_4_v4.wav",
+    "duration_sec": 2.2
+  },
+  {
+    "key": "boss_death_core_shutdown_v4",
+    "file": "assets/audio/boss_death_core_shutdown_v4.wav",
+    "duration_sec": 6.6
+  }
+]
